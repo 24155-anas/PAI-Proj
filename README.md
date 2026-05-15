@@ -2,11 +2,10 @@
 
 ## Project Members
 
-| Roll Number | Name |
-| BSCS24115 | Syed Zain Ali Kazmi |
-| BSCS24063 | Mubeen Butt |
-| BSCS24155 | Muhammad Anas Faisal |
-| BSCS24045 | Israr Hussain |
+BSCS24115    Syed Zain Ali Kazmi  
+BSCS24063    Mubeen Butt  
+BSCS24155    Muhammad Anas Faisal  
+BSCS24045    Israr Hussain  
 
 ## Dataset
 
