@@ -12,3 +12,7 @@ BSCS24045    Israr Hussain
 https://drive.google.com/drive/folders/1WZzrgX-3XvpZvR8Jv-qPGo56gzkk6DnP?usp=sharing
 
 > Mubeen's dataset is in combined final folder.
+
+
+kaggle notebook link:
+https://www.kaggle.com/code/muhammadanasfaisal/pai-project
